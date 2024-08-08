@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Extend-Thread-Class/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Extend-Thread-Class/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Implement-Runnable-Interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Implement-Runnable-Interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Inter-Thread-Communication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Inter-Thread-Communication/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Introduction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Introduction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Join-isAlive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Join-isAlive/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lambda-Expression/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lambda-Expression/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Synchronized-keyword/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Synchronized-keyword/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Thread-Pool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Thread-Pool/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Thread-Priority/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Thread-Priority/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
